@@ -68,5 +68,4 @@ export default config;
 
 Notes
 -----
-test
 
